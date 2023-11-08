@@ -30,9 +30,6 @@ let resultado;
                     case "/":
                         resultado = op1/op2
                         break;
-
-                        
-
         }
         pResultado.style = "color:black"
         pResultado.innerText = "= " + resultado
